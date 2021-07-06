@@ -1,6 +1,6 @@
 # Getting Started with Chat App
 
-![alt text](https://github.com/Kash2000/chat-application/blob/master/public/ChatPic.PNG?raw=true)
+<img src="https://github.com/Kash2000/chat-application/blob/master/public/ChatPic.PNG?raw=true" width="100" height="100">
 
 In the project directory, you can run:
 

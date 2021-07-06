@@ -16,3 +16,10 @@ You will also see any lint errors in the console.
 - React.js
 - chatengine.io
 
+## About
+This is a chat application that allows for real-time conversations between users. Some features include:
+- Login/logout function
+- Online status
+- Media sharing
+- Infinite Scrolling
+- Group Chats

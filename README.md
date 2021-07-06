@@ -24,3 +24,6 @@ This is a chat application that allows for real-time conversations between users
 - Media sharing
 - Infinite Scrolling
 - Group Chats
+
+
+![Alt text](https://media.giphy.com/media/xGVSkUt96OzslPKVEa/giphy.gif)
